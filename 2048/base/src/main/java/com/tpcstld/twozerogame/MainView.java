@@ -11,7 +11,6 @@ import android.graphics.drawable.Drawable;
 import android.util.Log;
 import android.view.View;
 
-import com.google.android.gms.games.Games;
 import com.tpcstld.twozerogame.base.R;
 
 import java.util.ArrayList;
@@ -248,7 +247,7 @@ public class MainView extends View {
 
     private void drawHeader(Canvas canvas) {
         paint.setTextSize(headerTextSize);
-        paint.setColor(getResources().getColor(R.color.text_black));
+        paint.setColor(getResources().getColor(R.color.text_white));
         paint.setTextAlign(Paint.Align.LEFT);
         int textShiftY = centerText() * 2;
         int headerStartY = sYAll - textShiftY;

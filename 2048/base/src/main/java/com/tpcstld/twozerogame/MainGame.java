@@ -3,7 +3,6 @@ package com.tpcstld.twozerogame;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
-import android.support.annotation.NonNull;
 
 import com.tpcstld.twozerogame.snapshot.SnapshotData;
 import com.tpcstld.twozerogame.snapshot.SnapshotManager;

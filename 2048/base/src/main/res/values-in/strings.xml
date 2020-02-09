@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2048</string>
+    <string name="continue_game">Batalkan</string>
+    <string name="endless">Babak Tak Berujung</string>
+    <string name="for_now">Untuk Sekarang…</string>
+    <string name="game_over">Permainan Telah Berakhir!</string>
+    <string name="go_on">Ketuk untuk Melanjutkan</string>
+    <string name="high_score">SKOR TERTINGGI</string>
+    <string name="instructions">"Geser untuk mulai. 2 + 2 = 4. Mencapai 2048.  "</string>
+    <string name="reset">Reset</string>
+    <string name="reset_dialog_message">Apakah Anda yakin ingin me-reset permainan?</string>
+    <string name="reset_dialog_title">Reset game?</string>
+    <string name="score">SKOR</string>
+    <string name="you_win">Kamu Menang!</string>
+</resources>
